@@ -1,6 +1,6 @@
 /**
 	State that's shown when the player wins the game!
-	Code by Rob Kleffner, 2011
+	Code by Rob Kleffner, 2012
 */
 
 Mario.WinState = function() {

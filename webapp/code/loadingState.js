@@ -1,6 +1,6 @@
 /**
 	State that loads all the resources for the game.
-	Code by Rob Kleffner, 2011
+	Code by Rob Kleffner, 2012
 */
 
 Mario.LoadingState = function() {

@@ -1,6 +1,6 @@
 /**
 	State for moving between different playable levels.
-	Code by Rob Kleffner, 2011
+	Code by Rob Kleffner, 2012
 */
 
 Mario.MapTile = {

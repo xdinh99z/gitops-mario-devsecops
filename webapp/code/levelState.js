@@ -1,6 +1,6 @@
 /**
 	State for actually playing a randomly generated level.
-	Code by Rob Kleffner, 2011
+	Code by Rob Kleffner, 2012
 */
 
 Mario.LevelState = function(difficulty, type) {
