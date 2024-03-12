@@ -1,6 +1,6 @@
 /**
 	State that's shown when the player wins the game!
-	Code by Rob Kleffner, 2012
+	Code by Rob Kleffner, 2011
 */
 
 Mario.WinState = function() {
@@ -49,7 +49,7 @@ Mario.WinState.prototype.Update = function(delta) {
     if (this.waitTime > 0) {
         this.waitTime -= delta;
     } else {
-        if (Enjine.KeyboardInput.IsKeyDown(Enjine.Keys.S)) {
+        if (Enjine.KeyboardInput.IsKeyDown(Enjine.Keys.Y)) {
             this.wasKeyDown = true;
         }
     }

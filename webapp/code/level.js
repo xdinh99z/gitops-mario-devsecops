@@ -1,6 +1,6 @@
 /**
 	Represents a playable level in the game.
-	Code by Rob Kleffner, 2012
+	Code by Rob Kleffner, 2011
 */
 
 Mario.Tile = {
