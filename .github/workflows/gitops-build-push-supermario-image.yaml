@@ -19,5 +19,5 @@ jobs:
 
       - name: Build and Push Docker Image
         run: |
-          docker build -t docker.io/xdinh99z/dev-secops-supermario:v1 .
-          docker push docker.io/xdinh99z/dev-secops-supermario:v1
+          docker build -t xdinh99z/dev-secops-supermario:v1 .
+          docker push xdinh99z/dev-secops-supermario:v1
