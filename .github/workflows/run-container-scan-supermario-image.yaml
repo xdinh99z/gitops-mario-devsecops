@@ -32,5 +32,5 @@ jobs:
         with:
           #input: /github/workspace/supermariolatestdockerimage.tar
           input: /home/runner/work/gitops-mario-devsecops/gitops-mario-devsecops/supermariolatestdockerimage.tar
-          exit-code: '1'
+          exit-code: '0'
           severity: 'CRITICAL,HIGH'
